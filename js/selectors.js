@@ -15,6 +15,6 @@ function divSelector(){
   return $('div.pics')
 }
 
-function firstLiItem(){
+function firstListItem(){
   return $('#pic-list li:nth-child(1)')
 }
